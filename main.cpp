@@ -71,7 +71,7 @@ int main()
     cout<< "Percentage of busy tacts"<< 100*(double) broj_zauzetih_taktova/broj_taktova<<endl;
     cout<< "Left on queue="<<q.QSize()<<endl;
     cout<< "Jobs: "<< predatih_poslova + odbijenih_poslova<<endl;
-    cout<< "Given: "<<predatih_poslova<<endl;
+    cout<< "Given: "<<predatih_possdslova<<endl;
     cout<< "Rejected: "<<odbijenih_poslova<<endl;
 
 /*
