@@ -16,7 +16,7 @@ int main()
     cout<<"Enter the size of Queue: ";
     cin >> queue_size;
 
-    cout<<"Enter Number of tact: ";
+    cout<<"Enter Number of tactssssss: ";
     cin >> broj_taktova;
 
     cout<<"Enter the intensity of flow: ";
